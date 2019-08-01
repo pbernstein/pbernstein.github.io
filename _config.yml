@@ -1,0 +1,55 @@
+# Site
+repository: pbernstein/resume
+# favicon: images/favicon.ico
+
+# Personal info
+name: Peter Bernstein
+title: Senior Application Architect 
+email: pbernstein@gmail.com
+website: pbernstein.github.io/
+
+# Social links
+github_username:  pbernstein
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+linkedin_username: peter-bernstein-9aa18a2
+# pinterest_username: jekyll
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/headShot.JPG
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Peter and I'm a senior application architect. I have experience making software, web apps, administering systems, and working with people all over the world. 
+
+  I am most skilled in: Data, massive amounts of data. Also, front ends and tooling, but mostly big backend systems.
+
+# Experience Section
+# experience_title: Experience
+
+ #Personal Projects Section
+ #projects_title: Personal Projects
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+   - BJJ 
+   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

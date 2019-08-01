@@ -1,0 +1,30 @@
+- layout: left
+  name: Northwestern University
+  dates: 2009 - 2013
+  qualification: Masters of Business Administration 
+  quote: >
+        Recieved an MBA from Kellogg School of Business. 
+  description: | # this will include new lines to allow paragraphs
+        
+
+- layout: left
+  name: Depauw University
+  dates: 1999 - 2003
+  qualification: 
+        Computer Science Degree
+        <br>
+        Philosophy Degree
+        <br>
+        Honors Scholar Program
+  quote: >
+        Liberal Arts School in Central Indiana
+  description: | # this will include new lines to allow paragraphs
+        <b>Computer Science capstone project</b>
+        <p>
+        A neural net that played Tetris
+        </p>
+        <br>
+        <b>Senior Philosophy Honors Thesis</b> 
+        <p>
+        ‘A Connectionist Objection to Folk Psychology’. An application of Neural Network data structures to common mental constructs.
+        </p>

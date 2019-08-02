@@ -5,16 +5,16 @@
   quote: > 
         Large and mini batch data processing with Python
   description: | # this will include new lines to allow paragraphs
-        After graduate school I built a python project that scrapes a variety of pricing and fundamental data about the US stock market. It uses that data to publish matched, cleaned data and automate trading US stocks. It works, but running it with real money became too much baby sitting and I don't have enough capital to live off the return. I haven’t maintained the project (other than formatting/cleaning it up for sharing) in years.
+        I built a python project that scrapes a variety of pricing and fundamental data about the US stock market. It uses that data to publish matched, cleaned data and automate trading US stocks. It works, but running it with real money became too much baby sitting and I don't have enough capital to live off the return. I haven’t maintained the project (other than formatting/cleaning it up for sharing) in years.
 
 - layout: top-middle
   name:  Logistics App
   quote: > 
         Angular (Ionic) app with an AWS backend
   description: | # this will include new lines to allow paragraphs
-        To keep current in the front end development space I worked on a ‘logistics’ front end/iphone application using Angular.  The app allows its users to keep track of inventory to be delivered to specific locations. Employees of our customers would use the app to track the inventory, get it signed for, track notes, status of the objects, etc. All sorts of cool stuff. The app uses a back end written in php with some AWS PAAS  (lambda, API Gateway, etc) services doing all the routing.  
+        I worked on a ‘logistics’ front end/iphone application using Angular.  The app allows its users to keep track of inventory to be delivered to specific locations. Employees of our customers would use the app to track the inventory, get it signed for, track notes, status of the objects, etc. All sorts of cool stuff. The app uses a back end written in php with some AWS PAAS  (lambda, API Gateway, etc) services doing all the routing.  
 
-Code base available upon request
+        Code base available upon request
 
 
 - layout: top-middle

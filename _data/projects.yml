@@ -5,7 +5,7 @@
   quote: > 
         Large and 'mini' batch data processing with Python
   description: | # this will include new lines to allow paragraphs
-        After graduate school I built a python project for fun that scrapes a variety of pricing and fundamental data about the US stock market. It uses that data to published "cleaned" data and automate trading US stocks. I haven’t maintained the project (other than formatting/cleaning it up for sharing) in many years.
+        After graduate school I built a python project that scrapes a variety of pricing and fundamental data about the US stock market. It uses that data to publish matched, cleaned data and automate trading US stocks. It works, but running it with real money became too much baby sitting and I don't have enough capital to live off the return. I haven’t maintained the project (other than formatting/cleaning it up for sharing) in years.
 
 - layout: top-middle
   name:  Logistics App

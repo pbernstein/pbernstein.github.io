@@ -21,15 +21,15 @@ linkedin_username: peter-bernstein-9aa18a2
 # about_title: About Me
 about_profile_image: images/headShot.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Peter and I'm a senior application architect. I have experience making software, web apps, administering systems, and working with people all over the world. 
+  Hello, my name's Peter. I'm a senior application architect. I have experience writing large data processing systems, writing web apps, administering systems, and working with people all over the world. 
 
-  I am most skilled in: Data, massive amounts of data. Also, front ends and tooling, but mostly big backend systems.
+  I am most skilled in: Working with data, massive amounts of data. Also, front ends and tooling, but mostly big backend systems. 
 
 # Experience Section
 # experience_title: Experience
 
- #Personal Projects Section
- #projects_title: Personal Projects
+# Personal Projects Section
+projects_title: Personal Projects
 
 # Education Section
 # educaton_title: Education
@@ -37,9 +37,13 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - BJJ 
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my passion for solving problems with software, some of my other interests and hobbies are:
+   - Going on adventures with my kids 
+   - Brazilian Jiu Jitsu 
+   - Coffee
+   - Mechanical Keyboards
+   - Piano, guitar, and meditation
+
 
 # Footer
 footer_show_references: true

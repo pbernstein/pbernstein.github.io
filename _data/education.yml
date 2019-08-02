@@ -3,8 +3,9 @@
   dates: 2009 - 2013
   qualification: Masters of Business Administration 
   quote: >
-        Recieved an MBA from Kellogg School of Business. 
+        Established in 1908 in downtown Chicago, the Kellogg School of Business at Northwestern University consistently ranks as one of the top 3 business schools in the U.S.
   description: | # this will include new lines to allow paragraphs
+        At Kellogg I had a chance to work alongside some of the most driven and talented people I've ever met.  I learned about a wide range of topics, including managing people, workflow management, finance, decision theory, business strategy, and enterprenuership.   
         
 
 - layout: left
@@ -17,14 +18,13 @@
         <br>
         Honors Scholar Program
   quote: >
-        Liberal Arts School in Central Indiana
+        Depauw is a small liberal arts university in downstate Indiana. Depauw focuses on an interdisciplinary education, focusing on both quantitative and qualitative excellence.
   description: | # this will include new lines to allow paragraphs
         <b>Computer Science capstone project</b>
         <p>
         A neural net that played Tetris
         </p>
-        <br>
         <b>Senior Philosophy Honors Thesis</b> 
         <p>
-        ‘A Connectionist Objection to Folk Psychology’. An application of Neural Network data structures to common mental constructs.
+        ‘A Connectionist Objection to Folk Psychology’. An application of Neural Network data structures to traditional theory of mind constructs.
         </p>

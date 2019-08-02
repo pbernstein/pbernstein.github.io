@@ -1,12 +1,12 @@
 # Site
-repository: pbernstein/resume
+repository: pbernstein/pbernstein.github.io
 # favicon: images/favicon.ico
 
 # Personal info
 name: Peter Bernstein
 title: Senior Application Architect 
 email: pbernstein@gmail.com
-website: pbernstein.github.io/
+website: https://pbernstein.github.io/
 
 # Social links
 github_username:  pbernstein

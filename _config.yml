@@ -21,9 +21,8 @@ linkedin_username: peter-bernstein-9aa18a2
 # about_title: About Me
 about_profile_image: images/headShot.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name's Peter. I'm a senior application architect. I have experience writing large data processing systems, writing web apps, administering systems, and working with people all over the world. 
-
-  I am most skilled in: Working with data, massive amounts of data. Also, front ends and tooling, but mostly big backend systems. 
+  Hello!  My name is Peter Bernstein and I am a Senior Application Architect. I have experience writing large data processing systems, writing web apps, administering systems, and working with people all over the world.
+I am most skilled in working with data, massive amounts of data. Also, front ends and tooling, but mostly big backend systems.
 
 # Experience Section
 # experience_title: Experience
@@ -38,7 +37,7 @@ projects_title: Personal Projects
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my passion for solving problems with software, some of my other interests and hobbies are:
-   - Going on adventures with my kids 
+   - Going on adventures with my wife and kids 
    - Brazilian Jiu Jitsu 
    - Coffee
    - Mechanical Keyboards

@@ -3,11 +3,11 @@
 
 Based on a template from [sproogen](https://github.com/sproogen/modern-resume-theme)
 
-<ul>To run locally
-<li> Install Ruby</li>
-<li>gem install jekyll bundler</li>
-<li>bundle install</li>
-<li>bundle exec jekyll serve</li>
-</ul>
-
+To run locally 
+- [Install Ruby] (https://www.ruby-lang.org/en/documentation/installation/)
+- gem install jekyll bundler
+- bundle install
+- bundle exec jekyll serve
+  
+  
 Available at: https://pbernstein.github.io/

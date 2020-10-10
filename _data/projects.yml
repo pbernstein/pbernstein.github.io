@@ -5,7 +5,7 @@
   quote: > 
         Large and mini batch data processing with Python
   description: | # this will include new lines to allow paragraphs
-        This is a Python project that scrapes a variety of pricing and fundamental data about the US stock market. It uses that data to publish matched and cleaned data.  There is also a component that uses that data predict what stocks are more likely to rise or fall, which is hooked into the Interacticve Brokers API to automate trading US stocks. It works, but running it with real money became too much baby sitting and I don't have enough capital to live off the return. 
+        This is a Python project that scrapes a variety of pricing and fundamental data about the US stock market. It uses that data to publish matched and cleaned data.  There is also a component that uses that data predict what stocks are more likely to rise or fall, which is hooked into the Interacticve Brokers API to automate trading US stocks. 
 
 - layout: top-middle
   name:  Logistics App

@@ -1,12 +1,12 @@
 
+# Github Resume
 
-# Based on https://github.com/sproogen/modern-resume-theme
-
+Based on a template from [sproogen](https://github.com/sproogen/modern-resume-theme)
 
 # To run locally
-	## Install Ruby
-	## gem install jekyll bundler
-	## bundle install
-	## bundle exec jekyll serve
+<ul> Install Ruby</ul>
+<li>gem install jekyll bundler</li>
+<li>bundle install</li>
+<li>bundle exec jekyll serve</li>
 
 Available at: https://pbernstein.github.io/

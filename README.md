@@ -9,4 +9,4 @@
 	## bundle install
 	## bundle exec jekyll serve
 
-# Available at: https://pbernstein.github.io/
+Available at: https://pbernstein.github.io/

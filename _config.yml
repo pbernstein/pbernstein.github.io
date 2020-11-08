@@ -4,7 +4,7 @@ repository: pbernstein/pbernstein.github.io
 
 # Personal info
 name: Peter Bernstein
-title: Senior Application Architect 
+title: Principal Architect 
 email: pbernstein@gmail.com
 website: https://pbernstein.github.io/
 
@@ -21,9 +21,9 @@ linkedin_username: peter-bernstein-9aa18a2
 # about_title: About Me
 about_profile_image: images/headShot.JPG
 about_content: | # this will include new lines to allow paragraphs
-        Hello!  My name is Peter Bernstein and I am a Senior Application Architect. I have experience writing large data processing systems, writing web apps, administering systems, and working with people all over the world.
+        Hello!  My name is Peter Bernstein.  I am a Principal Architect at TransUnion. I have experience writing large data processing systems, writing web apps, administering systems, and working with people all over the world.
 
-        The vast majority of my background involves working with data, massive amounts of data. I've also spent some time building front ends, tooling, and great development teams.
+        The vast majority of my background involves working with data on the scale of terabytes and petabytes. I've also spent some time building front end applications, tooling, and great development teams.
 
 # Experience Section
 # experience_title: Experience

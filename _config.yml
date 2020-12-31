@@ -19,7 +19,7 @@ linkedin_username: peter-bernstein-9aa18a2
 
 # About Section
 # about_title: About Me
-about_profile_image: images/headShot.JPG
+about_profile_image: images/headShot.png
 about_content: | # this will include new lines to allow paragraphs
         Hello!  My name is Peter Bernstein.  I am a Principal Architect at TransUnion. I have experience writing large data processing systems, writing web apps, administering systems, and working with people all over the world.
 

@@ -1,12 +1,18 @@
 # Site
 repository: pbernstein/pbernstein.github.io
-# favicon: images/favicon.ico
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
 
 # Personal info
 name: Peter Bernstein
 title: Principal Architect 
 email: pbernstein@gmail.com
 website: https://pbernstein.github.io/
+
+# Dark Mode (true/false/never)
+darkmode: true
 
 # Social links
 github_username:  pbernstein
@@ -16,34 +22,131 @@ github_username:  pbernstein
 linkedin_username: peter-bernstein-9aa18a2
 # pinterest_username: jekyll
 # googleplus_username: +jekyll
-
 # About Section
 # about_title: About Me
 about_profile_image: images/headShot.png
 about_content: | # this will include new lines to allow paragraphs
-        Hello!  My name is Peter Bernstein.  I am a Principal Architect at TransUnion. I have experience writing large data processing systems, writing web apps, administering systems, and working with people all over the world.
+  I am a Principal Architect at TransUnion, a global company that creates insight through information. 
+  
+  At TU I work with talented people all over the world. I lead a global team that writes large data processing systems, middle ware, web apps, and helps make TU an awesome place to be a developer.
 
-        The vast majority of my background involves working with data on the scale of terabytes and petabytes. I've also spent some time building front end applications, tooling, and great development teams.
+  I’ve spoken at a conference or two, the last one being a conference in London on the topic of finding and growing talented application developers. 
 
-# Experience Section
-# experience_title: Experience
+content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: TransUnion
+        link: transunion.com
+        link_text: TransUnion
+        sub_title: Principal Architect
+        caption: 2008 - Present
+        quote: >
+          Global Information insights company where we process and build products using some of the highest quality data in the world
+        description: | # this will include new lines to allow paragraphs 
+          <p>        
+          In the time that I've been at Transunion, it has grown from a privately held, Chicago based, US focused Credit Bureau into a global, public company with products in risk, healthcare, Fraud, and a variety of other markets.  
+          </p>
+          <p>
+          I lead the Enterprise Application Development Community of Practice. My team and I work with a variety of applications teams and platform automation teams across the enterprise in a variety of offices, including Chicago, Austin, South Africa, Colombia, and others. 
+          </p>
+          <p>
+          I do hands on work in Python, Shell, Typescript, some C, and a data processing platform we use called Ab Initio. I help strong technical associates align their vision with one another. I go to a lot of meetings.
+        
+      - layout: top-middle
+        title: Daman
+        link: damaninc.com
+        sub_title: Consultant
+        caption: 2006 - 2008
+        quote: >
+              Austin based data consulting company
+        description: | # this will include new lines to allow paragraphs
+              Developed applications to support data analytics initiatives for chip fabrication plants
 
-# Personal Projects Section
-projects_title: Personal Projects
+      - layout: top-middle
+        title: Knightsbridge Solutions
+        link: https://www8.hp.com
+        sub_title: Consultant
+        caption: 2003 - 2006
+        quote: >
+              Chicago based data consulting company, since acquired by HP
+        description: | # this will include new lines to allow paragraphs
+              Worked as a junior associate in a premier data focused software consulting company. Learned a lot, had a lot of great mentors.  Built data marts for member services division of AOL  
 
-# Education Section
-# educaton_title: Education
+  - title: Personal Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title:  Asset Pricing Model
+        link: github.com/pbernstein/fama
+        quote: > 
+              Large and mini batch data processing with Python
+        description: | # this will include new lines to allow paragraphs
+              This is a Python project that scrapes a variety of pricing and fundamental data about the US stock market. It uses that data to publish matched and cleaned data.  There is also a component that uses that data predict what stocks are more likely to rise or fall, which is hooked into the Interacticve Brokers API to automate trading US stocks. 
+      
+      - layout: top-middle
+        title:  Logistics App
+        quote: > 
+              Angular (Ionic) app with an AWS backend
+        description: | # this will include new lines to allow paragraphs
+              A ‘logistics’ front end/iphone application using Angular.  The app allows its users to keep track of inventory to be delivered to specific locations. Employees of our customers would use the app to track the inventory, get it signed for, track notes, status of the objects, etc. All sorts of cool stuff. The app uses a back end written in php with some AWS PAAS  (lambda, API Gateway, etc) services doing all the routing.  
+              Code base available upon request
+              
+      - layout: top-middle
+        title:  Volunteer work
+        link: github.com/pbernstein/technology
+        quote: > 
+              STEM Outreach
+        description: | # this will include new lines to allow paragraphs
+              I've spoken for High School students and other audiences to talk about how young people can pursue a career in technology.  Please contact me if you'd like me to schedule a talk!
 
-# More Section
-# more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my passion for solving problems with software, some of my other interests and hobbies are:
-   - Going on adventures with my wife and kids 
-   - Brazilian Jiu Jitsu 
-   - Coffee
-   - Mechanical Keyboards
-   - Piano, guitar, and meditation
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Northwestern University
+        caption: 2009 - 2013
+        sub_title: Masters of Business Administration 
+        quote: >
+              Established in 1908 in downtown Chicago, the Kellogg School of Business at Northwestern University consistently ranks as one of the top 3 business schools in the U.S.
+        description: | # this will include new lines to allow paragraphs
+              At Kellogg I had a chance to work alongside some of the most driven and talented people I've ever met.  I learned about a wide range of topics, including managing people, workflow management, finance, decision theory, business strategy, and enterprenuership.   
 
+      - layout: left
+        title: Depauw University
+        caption: 1999 - 2003
+        sub_title: 
+              Computer Science Degree
+              <br>
+              Philosophy Degree
+              <br>
+              Honors Scholar Program
+        quote: >
+              Depauw is a small liberal arts university in downstate Indiana. Depauw focuses on an interdisciplinary education, focusing on both quantitative and qualitative excellence.
+        description: | # this will include new lines to allow paragraphs
+              <b>Computer Science capstone project</b>
+              <p>
+              A neural net that played Tetris
+              </p>
+              <b>Senior Philosophy Honors Thesis</b> 
+              <p>
+              ‘A Connectionist Objection to Folk Psychology’. An application of Neural Network data structures to traditional theory of mind concepts.
+              </p>
+
+    # More Section
+    # more_title: A Little More About Me
+  - title: A Little More About Me # this will include new lines to allow paragraphs
+    layout: text
+    content: | 
+        Alongside my passion for solving problems with software, some of my other interests and hobbies are:
+        - Going on adventures with my wife and kids 
+        - Brazilian Jiu Jitsu 
+        - Kyoto Style Cold Brew Coffee
+        - Mechanical Keyboards
+        - Piano, guitar, and meditation
+        - Advocating for strong development practices 
+        <span class="profile-img" style="background-image: url(/images/stage.jpg)"></span> 
 
 # Footer
 footer_show_references: true
